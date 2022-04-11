@@ -1,9 +1,7 @@
 # Install
 ```
-bbob add -a https://github.com/Reknij/bbob-plugin-mathjax/releases/download/v1.0.0/bbob-plugin-mathjax.rar
+bbob add -a https://github.com/Reknij/bbob-plugin-mathjax/releases/download/v1.1.0/bbob-plugin-mathjax.rar
 ```
-
-Minimum version of Bbob is `v1.4.5+`
 
 # How to use?
 It will auto working.

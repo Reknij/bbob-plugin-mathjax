@@ -2,5 +2,6 @@
     "name": "bbob-plugin-mathjax",
     "author": "Jinker",
     "description": "Let your blog support mathematics syntax.",
-    "entry": "bbob-plugin-mathjax.dll"
+    "entry": "bbob-plugin-mathjax.dll",
+    "version": "1.1.0"
 }
