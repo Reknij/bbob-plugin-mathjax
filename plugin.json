@@ -3,5 +3,5 @@
     "author": "Jinker",
     "description": "Let your blog support mathematics syntax.",
     "entry": "bbob-plugin-mathjax.dll",
-    "version": "1.1.0"
+    "version": "1.2.0"
 }
