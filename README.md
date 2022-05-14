@@ -1,6 +1,6 @@
 # Install
 ```
-bbob add -a https://github.com/Reknij/bbob-plugin-mathjax/releases/download/v1.1.0/bbob-plugin-mathjax.rar
+bbob add -a https://github.com/Reknij/bbob-plugin-mathjax/releases/download/v1.2.0/bbob-plugin-mathjax.rar
 ```
 
 # How to use?
